@@ -3,7 +3,7 @@ It is a assignment given my webEngage company. In this assignment there are 3 ta
 ## Task-1
 ### Develop a 2-page mobile responsive onsite survey
 
-### NETLIFY-DEPLOYED-URL : https://survey-web-engage.netlify.app/
+### NETLIFY-DEPLOYED-URL : https://webengagesurvey-form.netlify.app/
 
 # Laptop Screen
 
