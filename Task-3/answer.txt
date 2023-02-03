@@ -1,0 +1,65 @@
+
+1.  My approach of solving this issue would be...First I will complete task1 and ask to extend the deadline for task2. Simultaneously I will make sure to give enough priority to my family because of the 
+ emergency, and after that issue will be resolved then I will focus on task2 and complete that within the extended deadline. I will also inform the regarded people (respective managers/customer) about the emergency and will keep them updated in future as well.
+
+Why have I chosen this approach and the facts considered before making decision:
+- Though task1 is of low priority still will take less time to complete as compared to task2.
+- On the other hand, task2 is complex and will take more time which is not possible due to family emergency and its unavoidable.
+- I have given a chance to extend deadline of only one of the two assignments, so completing one of themis necessary.
+- Because of the emergency I may not be able to focus enough on a complex task and deliviring low quality work is bad then delay.
+
+
+2.  To Manoj(manager),
+     Subject- Brief account on Online Survey Assignment
+     Dear Sir,
+     As mentioned in the task1, the assignment consist of pages as follows:
+     First page contains a form which takes input from the user- email and contact number followed by a button says "TALK TO US". On filling the details and click the button will redirect to the next 
+     page containing the thanksgiving message along with the user details.
+
+    Tech stack used: HTML , CSS , JavaScript.
+    Features:  The form is responsive and will alter accordingly with the screen sizes.
+                      The form contains validation as mentioned in the task that the user can not type invalid email (having < minimum length).
+                      The user can not submit the empty fields as it will show error message.
+                      The mobile no. input box will take only digits and the length will be exact 10 else show error (Invalid contact number).
+                      The pages are user friendly and attractive to engage the user's attention.
+                      
+    Regards,
+    Aman Kumar Patel
+
+
+    To Ravi(Manager),
+    Subject-Brief account on Online Nunjuncks Assignment
+     Dear Sir,
+     As mentioned in the task2, the assignment is as follows:
+     First install the Nunjuncks dependency and import using require.
+     In view folder create index.njk and implement the conditions as mentioned.
+     The data is stored in db.json.
+     You can see the result in index.html. 
+
+    Tech stack used: HTML , CSS , Nunjuncks.
+
+    Regards,
+    Aman Kumar Patel
+
+
+
+3.  To Customer,
+     Subject- Informing customer regarding project delay
+     Dear Sir/Ma'am,
+     I’m sorry to inform you that I will not able to deliver the given task on time initially finalised and have adjusted the timeline according to the new scenario.
+     Due to a family emergency, the task2 has been delayed by three days. Our new estimated deadline is jan15,2023. 
+     I am confident that after the issue has been solved I will be able to complete the project quickly and efficiently.
+     
+     I appreciate your flexibility and understanding as we tackle this unforeseen issue.
+
+     Thank you. Please contact me if you have any questions about the delay, the new schedule or anything else.
+                      
+    Regards,
+    Aman Kumar Patel
+
+
+
+
+
+
+
